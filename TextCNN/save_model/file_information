@@ -1,0 +1,2 @@
+This path is used to save the best train model.
+The metric are "Accuracy" and "F1".
